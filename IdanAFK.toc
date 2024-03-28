@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cff99ff33Idan|rAFK
+## Notes: enables /afk in arena and makes it surrender in old 3.3.5 clients
+## Version: v1.0
+## Author: Idan
+
+IdanAFK.lua
